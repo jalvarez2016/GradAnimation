@@ -1,3 +1,9 @@
+import { Animation } from "./Animation";
+
 export const MyComposition = () => {
-	return null;
+	return (
+		<>
+			<Animation/>
+		</>
+	);
 };

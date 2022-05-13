@@ -1,12 +1,24 @@
-# Remotion video
+# GraduationAnimation
+
 
 <p align="center">
-  <a href="https://github.com/remotion-dev/logo">
-    <img src="https://github.com/remotion-dev/logo/raw/main/withtitle/element-0.png">
+  <a href="https://twitter.com/DrawInDrew">
+    <img src="https://pbs.twimg.com/profile_banners/1329908733720354820/1629072720/1500x500">
   </a>
 </p>
 
-Welcome to your Remotion project!
+Making a graduation animation for a couple of friends and I kinda wanna keep it available in multiple places just in case. Also version control y'know. Plus that'll make this kinda reusable if the need ever comes up and I don't have much time.
+
+## About
+
+<p>
+  This project was made using Remotion for the purposes of avoiding having to pay a
+  monthly subscription to adobe just to add audio to my animations. At the moment, 
+  I'm currently learning how remotion works so I'll be making a new repo for every months work.
+  Eventually, once I have more time and know more about how remotion works, I'll work on adding 
+  a more reusable and cohesive flow where I can just add the new animations and music instead 
+  of making new repos. Below are the commands to run remotion and preview it in browser.
+</p>
 
 ## Commands
 
@@ -33,19 +45,3 @@ npm run build
 ```console
 npm run upgrade
 ```
-
-## Docs
-
-Get started with Remotion by reading the [fundamentals page](https://www.remotion.dev/docs/the-fundamentals).
-
-## Help
-
-We provide help [on our Discord server](https://discord.gg/6VzzNDwUwV).
-
-## Issues
-
-Found an issue with Remotion? [File an issue here](https://github.com/remotion-dev/remotion/issues/new).
-
-## License
-
-Notice that for some entities a company license is needed. Read [the terms here](https://github.com/remotion-dev/remotion/blob/main/LICENSE.md).
